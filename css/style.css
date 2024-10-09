@@ -407,8 +407,4 @@ section p {
         width: 100%;
         flex-wrap: wrap;
     }
-    html {
-        width: 667px;
-    }
-
 }
